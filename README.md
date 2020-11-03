@@ -3,11 +3,11 @@
 
 <p align="center">
 <code>[yuuta@yuuta ~]$ </code><br>
-<a href="https://github.com/topics/archlinux">#archlinux</a>
-<a href="https://github.com/topics/android">#android</a>
-<a href="https://github.com/topics/java">#java</a>
-<a href="https://github.com/topics/csharp">#csharp</a>
-<a href="https://github.com/topics/indiedev">#indiedev</a>
+<br >
+<img src="https://github-readme-stats.vercel.app/api?username=Trumeet" />
+<br >
+<br >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trumeet" />
 <br>
 <a href="https://yuuta.moe">Site</a> |
 <a href="https://twitter.com/NeoTrumeet">Twitter</a>
