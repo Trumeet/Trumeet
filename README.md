@@ -1,6 +1,6 @@
-# This page is a symlink to [https://yuuta.moe](yuuta.moe).
+# This page is a symlink to [yuuta.moe](https://yuuta.moe).
 
-You may find more information about me like projects, blogs and contacts at [https://yuuta.moe](yuuta.moe).
+You may find more information about me like projects, blogs and contacts at [yuuta.moe](https://yuuta.moe).
 
 ## whoami
 
