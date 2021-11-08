@@ -2,11 +2,10 @@
 
 You may find more information about me like projects, blogs and contacts at [yuuta.moe](https://yuuta.moe).
 
-## whoami
+## `whoami(1)`
 
-* Arch Linux and FreeBSD user.
-* Unix developer (using C) & Backend and Android developer (using Java).
+* Arch Linux, FreeBSD and Windows user & administrator.
+* UNIX developer (using C) & Backend and Android developer (using Java).
 * NOC of AS142281 and AS4242422980.
-* Minecraft player, major in redstone.
+* Technical Minecraft player.
 * osu! newbie.
-* UNIX and Windows administrator.
