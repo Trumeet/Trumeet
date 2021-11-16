@@ -2,6 +2,8 @@
 
 You may find more information about me like projects, blogs and contacts at [yuuta.moe](https://yuuta.moe).
 
+Most of my current projects are also hosted on my personal Git server at [git.yuuta.moe](https://git.yuuta.moe) (IPv6 Only). I support contributing via email patches.
+
 ## `whoami(1)`
 
 * Arch Linux, FreeBSD and Windows user & administrator.
