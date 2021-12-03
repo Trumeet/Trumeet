@@ -6,7 +6,7 @@ Most of my current projects are also hosted on my personal Git server at [git.yu
 
 ## `whoami(1)`
 
-* Arch Linux, FreeBSD and Windows user & administrator.
+* Arch Linux, FreeBSD, OpenBSD and Windows user & administrator.
 * UNIX developer (using C) & Backend and Android developer (using Java).
 * NOC of AS142281 and AS4242422980.
 * Technical Minecraft player.
