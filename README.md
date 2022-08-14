@@ -1,17 +1,22 @@
-# This page is a symlink to [yuuta.moe](https://yuuta.moe).
+# Yuuta Liang
 
-You may find more information about me like projects, blogs and contacts at [yuuta.moe](https://yuuta.moe).
+A first year Science student at UBC.
 
-Most of my current projects are also hosted on my personal Git server at [git.yuuta.moe](https://git.yuuta.moe) (IPv6 Only). I support contributing via email patches.
+I do not use GitHub for personal projects. You can learn more about me and my projects at [yuuta.moe](https://yuuta.moe).
+
+My projects are at [git.yuuta.moe](https://git.yuuta.moe). You may send patches via emails.
 
 ## `whoami(1)`
 
 * Arch Linux, FreeBSD, OpenBSD and Windows user & administrator.
 * UNIX developer (using C) & Backend and Android developer (using Java).
-* NOC of AS142281 and AS4242422980.
-* Technical Minecraft player.
-* osu! newbie.
+* [NOC of AS142281 and AS4242422980.](https://yuuta.network)
+* Interested in operating systems and networking.
+* Minecraft player.
+* (osu! newbie.](https://osu.ppy.sh/users/23872922
+
+![osu sign](https://project.chinalcmod.com/osu/sig.php?colour=hexff66aa&uname=Yuuta_Liang&pp=1&countryrank&removeavmargin&darktriangles&xpbar)
 
 ---
 
-Profile Photo: [shu_saku999@twitter/1367894044534206464](https://twitter.com/shu_saku999/status/1367894044534206464/)
+Profile Photo: [shu_saku999@twitter/1422609817500192770](https://twitter.com/shu_saku999/status/1422609817500192770/)
