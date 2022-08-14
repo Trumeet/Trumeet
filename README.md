@@ -2,9 +2,9 @@
 
 A first year Science student at UBC.
 
-I do not use GitHub for personal projects. You can learn more about me and my projects at [yuuta.moe](https://yuuta.moe).
+You can learn more about me and my projects at [yuuta.moe](https://yuuta.moe).
 
-My projects are at [git.yuuta.moe](https://git.yuuta.moe). You may send patches via emails.
+I do not use GitHub for personal projects.  My projects are at [git.yuuta.moe](https://git.yuuta.moe). You may send patches via emails.
 
 ## `whoami(1)`
 
