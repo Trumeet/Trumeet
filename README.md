@@ -13,7 +13,7 @@ My projects are at [git.yuuta.moe](https://git.yuuta.moe). You may send patches 
 * [NOC of AS142281 and AS4242422980.](https://yuuta.network)
 * Interested in operating systems and networking.
 * Minecraft player.
-* (osu! newbie.](https://osu.ppy.sh/users/23872922
+* [osu! newbie.](https://osu.ppy.sh/users/23872922)
 
 ![osu sign](https://project.chinalcmod.com/osu/sig.php?colour=hexff66aa&uname=Yuuta_Liang&pp=1&countryrank&removeavmargin&darktriangles&xpbar)
 
