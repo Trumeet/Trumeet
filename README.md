@@ -20,3 +20,5 @@ I do not use GitHub for personal projects.  My projects are at [git.yuuta.moe](h
 ---
 
 Profile Photo: [shu_saku999@twitter/1422609817500192770](https://twitter.com/shu_saku999/status/1422609817500192770/)
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 999999; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 100%; opacity: 0.8; filter: blur(0.5rem); background-color: #fff;]{x0000}$}
